@@ -1,0 +1,10 @@
+.card {
+  width: 18rem;
+  align-items: center;
+  margin: 10px auto 10px auto;
+}
+
+.app {
+  box-sizing: content-box;
+  margin: 20px auto auto auto;
+}
